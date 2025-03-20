@@ -31,7 +31,7 @@
   ▸ OOP architecture implementation  
   ▸ SQLite-based high score system  
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -56,6 +56,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![PgAdmin](https://img.shields.io/badge/-PgAdmin-2C3E50?logo=postgresql&logoColor=white)
 
-### 📬 Contact Me
+## 📬 Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/klyukin_evgeny)  
 _For project inquiries or collaboration_
