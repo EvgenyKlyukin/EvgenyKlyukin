@@ -1,8 +1,7 @@
 ## 🚀 About Me
 
-**Yandex Practicum** | Specialization: Python Backend Development (starting Fall 2024)  
-_Key Skills:_  
-`Django` `DRF` `SQLite3` `API Development` `Telegram Bots` 
+**Yandex Practicum** | Python Backend Development (starting Fall 2024)    
+`Python` `SQLite3` `Django` `DRF` `API Development` `Telegram Bots` `pytest` `unittest`
 
 ### 🔥 My Projects:
 
