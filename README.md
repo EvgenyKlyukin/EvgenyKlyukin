@@ -40,10 +40,6 @@ _Key Skills:_
 | Databases             | PostgreSQL, SQLite                                                          |
 | Tools & APIs          | Git, Postman, Google Sheets API, Telegram Bot API                           |
 
-### 📊 My activity
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvgenyKlyukin&show_icons=true&theme=dark)](https://github.com/EvgenyKlyukin)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenyKlyukin&layout=compact)](https://github.com/EvgenyKlyukin)  
-
 ### 📬 Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/klyukin_evgeny)  
 _For project inquiries or collaboration_
