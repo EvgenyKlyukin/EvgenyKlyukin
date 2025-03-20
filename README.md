@@ -6,12 +6,12 @@
 ## 🔥 My Projects:
 
 #### **Telegram Bots**
-1. **Appointment Confirmation Bot**  
+- **Appointment Confirmation Bot**  
    ▸ PostgreSQL data storage  
    ▸ Google Sheets integration via Sheets API  
    ▸ Asynchronous request processing  
 
-2. **Work Status Tracking Bot**  
+- **Work Status Tracking Bot**  
    ▸ Action logging with SQLite persistence  
    ▸ Exception handling implementation  
    ▸ Scheduled external API polling (15-min interval)  
