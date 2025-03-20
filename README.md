@@ -3,7 +3,7 @@
 **Yandex Practicum** | Python Backend Development (starting Fall 2024)    
 `Python` `SQLite3` `Django` `DRF` `API Development` `Telegram Bots` `pytest` `unittest`
 
-### 🔥 My Projects:
+## 🔥 My Projects:
 
 #### **Telegram Bots**
 1. **Appointment Confirmation Bot**  
