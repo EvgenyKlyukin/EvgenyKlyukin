@@ -43,7 +43,6 @@ _Key Skills:_
 ### 📊 My activity
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvgenyKlyukin&show_icons=true&theme=dark)](https://github.com/EvgenyKlyukin)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenyKlyukin&layout=compact)](https://github.com/EvgenyKlyukin)  
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=EvgenyKlyukin.EvgenyKlyukin)
 
 ### 📬 Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/klyukin_evgeny)  
