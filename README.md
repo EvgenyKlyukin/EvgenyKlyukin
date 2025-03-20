@@ -1,16 +1,50 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**EvgenyKlyukin/EvgenyKlyukin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yandex Practicum** | Specialization: Python Backend Development (starting Fall 2024)  
+_Key Skills:_  
+`Django` `DRF` `SQLite3` `API Development` `Telegram Bots` 
 
-Here are some ideas to get you started:
+### 🔥 My Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **Telegram Bots**
+1. **Appointment Confirmation Bot**  
+   ▸ PostgreSQL data storage  
+   ▸ Google Sheets integration via Sheets API  
+   ▸ Asynchronous request processing  
+
+2. **Work Status Tracking Bot**  
+   ▸ Action logging with SQLite persistence  
+   ▸ Exception handling implementation  
+   ▸ Scheduled external API polling (15-min interval)  
+
+#### **Web Projects**
+- **Blogicum Platform (Django)**  
+  ▸ Full-featured CRUD with JWT authentication  
+  ▸ REST API for article management  
+  ▸ Content pagination and filtering  
+
+- **Google Sheets Integration**  
+  ▸ Middleware for API ↔ Sheets data synchronization  
+  ▸ Automated export/import workflows  
+
+#### **Other Projects**
+- **Snake Game (PyGame)**  
+  ▸ OOP architecture implementation  
+  ▸ SQLite-based high score system  
+
+### 🛠 Tech Stack:
+| **Category**          | **Technologies**                                                             |
+|-----------------------|------------------------------------------------------------------------------|
+| Languages             | Python, SQL, HTML5/CSS3                                                     |
+| Frameworks & Libraries| Django, DRF, Pytest, Aiogram, PyTelegramBotAPI                              |
+| Databases             | PostgreSQL, SQLite                                                          |
+| Tools & APIs          | Git, Postman, Google Sheets API, Telegram Bot API                           |
+
+### 📊 My activity
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvgenyKlyukin&show_icons=true&theme=dark)](https://github.com/EvgenyKlyukin)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenyKlyukin&layout=compact)](https://github.com/EvgenyKlyukin)  
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=EvgenyKlyukin.EvgenyKlyukin)
+
+### 📬 Contact Me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/klyukin_evgeny)  
+_For project inquiries or collaboration_
