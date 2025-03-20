@@ -14,7 +14,7 @@
 - **Work Status Tracking Bot**  
    ▸ Action logging with SQLite persistence  
    ▸ Exception handling implementation  
-   ▸ Scheduled external API polling (15-min interval)  
+   ▸ Scheduled external API polling
 
 #### **Web Projects**
 - **Blogicum Platform (Django)**  
