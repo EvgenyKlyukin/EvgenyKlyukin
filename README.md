@@ -5,7 +5,7 @@
 
 ## 🔥 My Projects:
 
-#### **Telegram Bots**
+### **Telegram Bots**
 1. **Appointment Confirmation Bot**  
    ▸ PostgreSQL data storage  
    ▸ Google Sheets integration via Sheets API  
@@ -16,7 +16,7 @@
    ▸ Exception handling implementation  
    ▸ Scheduled external API polling (15-min interval)  
 
-#### **Web Projects**
+### **Web Projects**
 - **Blogicum Platform (Django)**  
   ▸ Full-featured CRUD with JWT authentication  
   ▸ REST API for article management  
@@ -26,7 +26,7 @@
   ▸ Middleware for API ↔ Sheets data synchronization  
   ▸ Automated export/import workflows  
 
-#### **Other Projects**
+### **Other Projects**
 - **Snake Game (PyGame)**  
   ▸ OOP architecture implementation  
   ▸ SQLite-based high score system  
