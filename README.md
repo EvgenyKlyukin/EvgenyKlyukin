@@ -46,6 +46,7 @@ _Key Skills:_
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram&logoColor=white)
 ![oauth2client](https://img.shields.io/badge/-oauth2client-3776AB?logo=python&logoColor=white)
+![unittest](https://img.shields.io/badge/-unittest-3776AB?logo=python&logoColor=white)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
