@@ -1,7 +1,7 @@
 ## 🚀 About Me
 
 **Yandex Practicum** | Python Backend Development (starting Fall 2024)    
-`Python` `SQLite3` `Django` `DRF` `API Development` `Telegram Bots` `pytest` `unittest`
+`Python` `SQLite3` `HTML5` `CSS3` `Django` `DRF` `API Development` `Telegram Bots` `pytest` `unittest`
 
 ## 🛠 Tech Stack
 
