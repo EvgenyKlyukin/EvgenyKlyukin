@@ -52,7 +52,7 @@
   ▸ Automated export/import workflows  
 
 #### **Other Projects**
-- **Snake Game (PyGame)**  
+- [**Snake Game (PyGame)**](https://github.com/EvgenyKlyukin/the_snake#)  
   ▸ OOP architecture implementation  
   ▸ SQLite-based high score system  
 
