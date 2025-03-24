@@ -54,7 +54,7 @@
 #### **Other Projects**
 - [**Snake Game (PyGame)**](https://github.com/EvgenyKlyukin/the_snake#)  
   ▸ OOP architecture implementation  
-  ▸ SQLite-based high score system  
+  ▸ Working with a graphical interface based on PyGame 
 
 ## 📬 Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/klyukin_evgeny)  
