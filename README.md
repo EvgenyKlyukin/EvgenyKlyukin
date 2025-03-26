@@ -41,9 +41,8 @@
   ▸ REST API for article management  
   ▸ Content pagination and filtering  
 
-- **Google Sheets Integration**  
-  ▸ Middleware for API ↔ Sheets data synchronization  
-  ▸ Automated export/import workflows  
+- [**Django testing**](https://github.com/EvgenyKlyukin/django_testing) *completed on 02.2025*  
+  ▸ Implementing test cases for a Django project using both pytest and unittest frameworks
  
  - [**REST API (Yatube Social Network)**](https://github.com/EvgenyKlyukin/api_final_yatube) *completed on 03.2025*  
   ▸ Yatube Social Network REST API  
