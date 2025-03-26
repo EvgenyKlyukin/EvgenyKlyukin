@@ -53,8 +53,8 @@
 
 #### **Other Projects**
 - [**Snake Game (PyGame)**](https://github.com/EvgenyKlyukin/the_snake#)
-  ▸ OOP architecture implementation
-  ▸ Working with a graphical interface based on PyGame
+  ▸ OOP architecture implementation 
+  ▸ Working with a graphical interface based on PyGame 
   *completed on 10.2024*
 
 ## 📬 Contact Me
