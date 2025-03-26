@@ -31,15 +31,18 @@
 ## 🔥 My Projects:
 
 #### **Telegram Bots**
-- [**Work Status Tracking Bot**](https://github.com/EvgenyKlyukin/homework_bot) *completed on 02.2025*  
+- [**Work Status Tracking Bot**](https://github.com/EvgenyKlyukin/homework_bot) *completed on 02.2025*
    ▸ Exception handling implementation  
    ▸ Scheduled external API polling
 
 #### **Web Projects**
-- **Blogicum Platform (Django)**  
-  ▸ Full-featured CRUD with JWT authentication  
-  ▸ REST API for article management  
-  ▸ Content pagination and filtering  
+- [**Blogicum Platform (Django)**](https://github.com/EvgenyKlyukin/django_sprint4) *completed on 01.2025*
+  ▸ User Management: Registration, authentication, and profile customization  
+  ▸ Content Management:
+     - Create, edit, and delete posts
+     - Upload and display post images
+     - Add/remove comments
+  ▸ Technical Features: custom error pages,pPagination for posts and comments, email notification system
 
 - [**Django testing**](https://github.com/EvgenyKlyukin/django_testing) *completed on 02.2025*  
   ▸ Implementing test cases for a Django project using both pytest and unittest frameworks
