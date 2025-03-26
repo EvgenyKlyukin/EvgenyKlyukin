@@ -50,12 +50,17 @@
 - **Google Sheets Integration**  
   ▸ Middleware for API ↔ Sheets data synchronization  
   ▸ Automated export/import workflows  
+ 
+ - [**REST API (Yatube Social Network)**](https://github.com/EvgenyKlyukin/api_final_yatube) *completed on 03.2025*  
+  ▸ Yatube Social Network REST API  
+  ▸ Followed the "API First" approach  
+  ▸ Implemented core social network features: posts, comments, followers, and groups  
 
 #### **Other Projects**
-- [**Snake Game (PyGame)**](https://github.com/EvgenyKlyukin/the_snake#)  
+- [**Snake Game (PyGame)**](https://github.com/EvgenyKlyukin/the_snake#) *completed on 10.2024*  
   ▸ OOP architecture implementation  
   ▸ Working with a graphical interface based on PyGame  
-*completed on 10.2024* 
+
 
 
 ## 📬 Contact Me
