@@ -36,8 +36,7 @@
    ▸ Google Sheets integration via Sheets API  
    ▸ Asynchronous request processing  
 
-- **Work Status Tracking Bot**  
-   ▸ Action logging with SQLite persistence  
+- [**Work Status Tracking Bot**](https://github.com/EvgenyKlyukin/homework_bot) *completed on 02.2025*  
    ▸ Exception handling implementation  
    ▸ Scheduled external API polling
 
