@@ -52,7 +52,7 @@
   ▸ Automated export/import workflows  
 
 #### **Other Projects**
-- [**Snake Game (PyGame)**](https://github.com/EvgenyKlyukin/the_snake#)  
+- [**Snake Game (PyGame)**](https://github.com/EvgenyKlyukin/the_snake#) completed on 10.2024
   ▸ OOP architecture implementation  
   ▸ Working with a graphical interface based on PyGame 
 
