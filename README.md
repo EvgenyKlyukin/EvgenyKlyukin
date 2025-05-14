@@ -16,7 +16,6 @@
 ![DRF](https://img.shields.io/badge/-DRF%20(Django%20REST)-8C1D40?logo=django&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram&logoColor=white)
-![oauth2client](https://img.shields.io/badge/-oauth2client-3776AB?logo=python&logoColor=white)
 ![unittest](https://img.shields.io/badge/-unittest-3776AB?logo=python&logoColor=white)
 
 **Databases**  
