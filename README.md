@@ -44,10 +44,17 @@
 - [**Django testing**](https://github.com/EvgenyKlyukin/django_testing) *completed on 02.2025*  
   ▸ Implementing test cases for a Django project using both pytest and unittest frameworks
  
- - [**REST API (Yatube Social Network)**](https://github.com/EvgenyKlyukin/api_final_yatube) *completed on 03.2025*  
+- [**REST API (Yatube Social Network)**](https://github.com/EvgenyKlyukin/api_final_yatube) *completed on 03.2025*  
   ▸ Yatube Social Network REST API  
   ▸ Followed the "API First" approach  
   ▸ Implemented core social network features: posts, comments, followers, and groups
+
+- [**Kittygram (Django + React)**](https://github.com/EvgenyKlyukin/kittygram_final) *completed on 05.2025*  
+  ▸ Full-stack project with Django backend and React frontend
+  ▸ Containerized with Docker (PostgreSQL, Nginx, backend, frontend)
+  ▸ CI/CD pipeline with GitHub Actions (automatic testing and deployment)
+  ▸ Configured Nginx as reverse proxy for backend/frontend
+  ▸ Implemented Docker volumes for static/media files and database persistence
 
  - [**EventHub**](https://github.com/EvgenyKlyukin/EventHub) *in development*  
 
