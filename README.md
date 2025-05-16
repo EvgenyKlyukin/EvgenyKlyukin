@@ -50,11 +50,11 @@
   ▸ Implemented core social network features: posts, comments, followers, and groups
 
 - [**YaMDb API (Django REST Framework)**](https://github.com/EvgenyKlyukin/api_yamdb) *completed on 03.2025*  
-  ▸ Team project (3 developers) with role-based distribution
-  ▸ REST API for review platform of books/movies/music
-  ▸ Implemented JWT authentication with email confirmation
-  ▸ Complex database relationships with cascade deletion
-  ▸ Data import from CSV files with error handling
+  ▸ Team project (3 developers) with role-based distribution  
+  ▸ REST API for review platform of books/movies/music  
+  ▸ Implemented JWT authentication with email confirmation  
+  ▸ Complex database relationships with cascade deletion  
+  ▸ Data import from CSV files with error handling  
 
 - [**Kittygram (Django + React)**](https://github.com/EvgenyKlyukin/kittygram_final) *completed on 05.2025*  
   ▸ Full-stack project with Django backend and React frontend  
