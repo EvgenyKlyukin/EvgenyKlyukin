@@ -54,7 +54,14 @@
   ▸ REST API for review platform of books/movies/music  
   ▸ Implemented JWT authentication with email confirmation  
   ▸ Complex database relationships with cascade deletion  
-  ▸ Data import from CSV files with error handling  
+  ▸ Data import from CSV files with error handling
+
+- [**Kittygram Deployment (Nginx + Gunicorn)**](https://github.com/EvgenyKlyukin/infra_sprint1) *completed on 04.2025*  
+  ▸ Multi-project server configuration (Kittygram + Taski)  
+  ▸ Gunicorn WSGI setup with separate service files  
+  ▸ Nginx reverse proxy with HTTPS encryption  
+  ▸ React frontend build and static files handling  
+  ▸ Media files configuration for user uploads  
 
 - [**Kittygram (Django + React)**](https://github.com/EvgenyKlyukin/kittygram_final) *completed on 05.2025*  
   ▸ Full-stack project with Django backend and React frontend  
