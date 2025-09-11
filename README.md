@@ -1,6 +1,8 @@
 ## 🚀 About Me
 
-**Yandex Practicum** | Python Backend Development (starting Fall 2024)    
+I'm a backend developer passionate about building efficient and reliable systems. What drives me in IT is the creative process of problem-solving — finding optimal solutions to complex challenges.
+
+I started with Python for its versatility, which led me to consciously choose backend development. I enjoy architecting the logic that powers user-friendly applications and am always eager to deepen my expertise in system design.
 
 
 ## 🛠 Tech Stack
