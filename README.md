@@ -77,8 +77,7 @@ I started with Python for its versatility, which led me to consciously choose ba
   ▸ CI/CD pipeline with GitHub Actions (automatic testing and deployment)  
   ▸ Configured Nginx as reverse proxy for backend/frontend  
   ▸ Implemented Docker volumes for static/media files and database persistence  
-
- - [**EventHub**](https://github.com/EvgenyKlyukin/EventHub) *in development*  
+ 
 
 #### **Other Projects**
 - [**Snake Game (PyGame)**](https://github.com/EvgenyKlyukin/the_snake#) *completed on 10.2024*  
