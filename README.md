@@ -1,91 +1,109 @@
-## 🚀 About Me
+## 👋 About Me
 
-I'm a backend developer passionate about building efficient and reliable systems. What drives me in IT is the creative process of problem-solving — finding optimal solutions to complex challenges.
+I'm a Fullstack Developer focused on backend systems, AI platforms, and
+data-driven engineering.
 
-I started with Python for its versatility, which led me to consciously choose backend development. I enjoy architecting the logic that powers user-friendly applications and am always eager to deepen my expertise in system design.
+I build production services, data pipelines, integrations, and internal
+platforms that connect APIs, databases, cloud infrastructure, and AI workflows.
 
+I have built 30+ production services and integrations, contributed across
+100+ repositories, worked with 10+ external data sources, and helped build
+systems used by 1000+ users and processing millions of records.
+
+My main interests are backend architecture, knowledge graphs, AI-assisted
+software engineering, and reliable automation from idea to deployment.
 
 ## 🛠 Tech Stack
 
-**Languages**  
+### Core Engineering
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![REST](https://img.shields.io/badge/-REST-005571?logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 
-**Frameworks & Libraries**  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/-DRF%20(Django%20REST)-8C1D40?logo=django&logoColor=white)
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
-![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram&logoColor=white)
-![unittest](https://img.shields.io/badge/-unittest-3776AB?logo=python&logoColor=white)
+### Data & AI
 
-**Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?logo=neo4j&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM%20Systems-412991?logo=openai&logoColor=white)
 
-**DevOps & Infrastructure**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+### Infrastructure
 
-**Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![PgAdmin](https://img.shields.io/badge/-PgAdmin-2C3E50?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?logo=githubactions&logoColor=white)
 
-## 🔥 My Projects:
+## 🚀 Selected Experience
 
-#### **Telegram Bots**
-- [**Work Status Tracking Bot**](https://github.com/EvgenyKlyukin/homework_bot) *completed on 02.2025*  
-   ▸ Exception handling implementation  
-   ▸ Scheduled external API polling
+### AI Task Execution Platform
 
-#### **Web Projects**
-- [**Blogicum Platform (Django)**](https://github.com/EvgenyKlyukin/django_sprint4) *completed on 01.2025*  
-  ▸ User Management: registration, authentication, and profile customization  
-  ▸ Technical Features: custom error pages, pagination for posts and comments, email notification system  
-  ▸ Content Management: create, edit, and delete posts; upload and display post images; add/remove comments  
+Built a platform for executing AI-powered tasks across 13+ connected services.
 
+- Designed service interactions around Neo4j as a source of truth.
+- Used GCP Storage for generated artifacts and intermediate results.
+- Worked on service boundaries, data relationships, and execution workflows.
+- Connected backend services into a distributed platform for AI automation.
 
-- [**Django testing**](https://github.com/EvgenyKlyukin/django_testing) *completed on 02.2025*  
-  ▸ Implementing test cases for a Django project using both pytest and unittest frameworks
- 
-- [**REST API (Yatube Social Network)**](https://github.com/EvgenyKlyukin/api_final_yatube) *completed on 03.2025*  
-  ▸ Yatube Social Network REST API  
-  ▸ Followed the "API First" approach  
-  ▸ Implemented core social network features: posts, comments, followers, and groups
+**Technologies:** Python, Go, Neo4j, GCP, microservices, AI agents.
 
-- [**YaMDb API (Django REST Framework)**](https://github.com/EvgenyKlyukin/api_yamdb) *completed on 03.2025*  
-  ▸ Team project (3 developers) with role-based distribution  
-  ▸ REST API for review platform of books/movies/music  
-  ▸ Implemented JWT authentication with email confirmation  
-  ▸ Complex database relationships with cascade deletion  
-  ▸ Data import from CSV files with error handling
+### AI Session Intelligence Platform
 
-- [**Kittygram Deployment (Nginx + Gunicorn)**](https://github.com/EvgenyKlyukin/infra_sprint1) *completed on 04.2025*  
-  ▸ Multi-project server configuration (Kittygram + Taski)  
-  ▸ Gunicorn WSGI setup with separate service files  
-  ▸ Nginx reverse proxy with HTTPS encryption  
-  ▸ React frontend build and static files handling  
-  ▸ Media files configuration for user uploads  
+Built a system for collecting and enriching AI session data from ChatGPT,
+Codex, Claude, and Cursor.
 
-- [**Kittygram (Django + React)**](https://github.com/EvgenyKlyukin/kittygram_final) *completed on 05.2025*  
-  ▸ Full-stack project with Django backend and React frontend  
-  ▸ Containerized with Docker (PostgreSQL, Nginx, backend, frontend)  
-  ▸ CI/CD pipeline with GitHub Actions (automatic testing and deployment)  
-  ▸ Configured Nginx as reverse proxy for backend/frontend  
-  ▸ Implemented Docker volumes for static/media files and database persistence  
- 
+- Stored raw transcripts in MongoDB Atlas.
+- Created projections of session data in Neo4j with links to original sources.
+- Stored processed transcripts in GCP Storage.
+- Made the resulting knowledge available to internal AI systems.
+- Worked with more than 10 data sources and systems used by 1000+ users.
 
-#### **Other Projects**
-- [**Snake Game (PyGame)**](https://github.com/EvgenyKlyukin/the_snake#) *completed on 10.2024*  
-  ▸ OOP architecture implementation  
-  ▸ Working with a graphical interface based on PyGame  
+**Technologies:** Python, MongoDB Atlas, Neo4j, GCP, data pipelines, LLM
+systems.
 
+### AI-Driven Testing System
 
+Built an automated workflow from a task description to a merge request.
 
-## 📬 Contact Me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/klyukin_evgeny)  
-_For project inquiries or collaboration_
+- Generated unit tests and mutation tests before implementation.
+- Preserved the generated tests as an immutable specification.
+- Used the tests to verify that the implementation matched the original task.
+- Automated the path from task analysis through implementation and review.
+
+**Technologies:** Python, unit testing, mutation testing, Git workflows,
+AI agents.
+
+## 🔧 Additional Production Experience
+
+- Debugged and improved ETL pipelines processing RSS and news-service API data.
+- Built data ingestion jobs for DWH and external APIs using REST and GraphQL.
+- Created a Neo4j relationship-generation service for connecting imported data.
+- Upgraded a production Node.js application from version 12 to 17.
+- Added a batch transaction endpoint to an internal custom-currency service
+  built with Go, API Gateway, and BigQuery.
+- Contributed to a news platform across hosting, React custom blocks, and CMS
+  repositories.
+- Contributed to an internal administration platform using a host application
+  and a connected microfrontend.
+
+## 🔭 Currently Exploring
+
+- AI-assisted software engineering.
+- Agentic systems and multi-service AI workflows.
+- Knowledge graphs and data lineage.
+- AI testing, evaluation, and mutation testing.
+- Developer productivity automation.
+
+## 📬 Contact
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/klyukin_evgeny)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evgeny-klyukin-34a31a3a1/)
