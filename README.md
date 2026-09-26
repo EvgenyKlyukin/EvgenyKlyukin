@@ -101,9 +101,3 @@ AI agents.
 - Knowledge graphs and data lineage.
 - AI testing, evaluation, and mutation testing.
 - Developer productivity automation.
-
-## 📬 Contact
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/klyukin_evgeny)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evgeny-klyukin-34a31a3a1/)
